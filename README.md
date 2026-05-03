@@ -1,5 +1,13 @@
 # NSS & YRC Volunteer Management App
 
+>  Note: The source code for this project is private as the application is currently in use.  
+>  The APK file is provided above — you can download and use the application directly.
+>  Signup with your own credentials and login with the same (student side). Admin side is kept in private mode
+
+
+---
+
+## Overview
 Android application to digitally manage NSS and YRC volunteer programs with secure attendance and contribution tracking.
 
 ---
@@ -89,3 +97,4 @@ submissions/{submissionId}
 - No traditional backend (Firebase handles backend services)
 - Lightweight and scalable system
 - Prevents proxy/fake attendance
+
